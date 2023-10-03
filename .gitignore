@@ -1,0 +1,7 @@
+/tacotron2-venv
+/output
+/logs
+/logs2
+/wavs
+__pycache__/
+/pretrained_model
